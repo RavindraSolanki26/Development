@@ -5,6 +5,7 @@
 3. do-while loop
 4. for in loop
 5. for of loop
+6.foreach loop
 */
 
 // for (let index = 1; index <= 10; index++) {
@@ -42,6 +43,6 @@
 // }
 
 
-for (const iterator of object) {
+// for (const iterator of object) {
     
-}
+// }
